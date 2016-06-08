@@ -1,0 +1,41 @@
+{
+  "name": "grunt-pretranslate",
+  "description": "Translator precompile.",
+  "version": "0.0.1",
+  "homepage": "",
+  "main": "./tasks/pretranslate.js",
+  "private": true,
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": ""
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "i18next": "~1.7.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "readmeFilename": "README.md"
+}
